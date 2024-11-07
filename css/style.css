@@ -1,0 +1,9 @@
+
+.icons {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    height: 50px !important;
+    width: 50px !important;
+    font-size: 30px !important;
+}
